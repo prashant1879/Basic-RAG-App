@@ -1,0 +1,14 @@
+Flask==3.1.0
+openai==1.69.0
+chromadb==0.6.3
+langchain==0.3.20
+langchain-core==0.3.45
+langchain-text-splitters==0.3.6
+langchain_chroma==0.2.2
+langchain-community==0.3.19
+aiologger==0.7.0
+aiofiles==24.1.0
+langgraph==0.3.28
+langgraph.checkpoint.sqlite==2.0.6
+unstructured==0.17.2
+markdown==3.7

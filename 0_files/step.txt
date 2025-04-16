@@ -1,0 +1,10 @@
+conda create --name basic_chat_bot python=3.12.3
+conda activate basic_chat_bot
+pip install -r requriments.txt
+python main.py
+
+
+mkdir myproject
+cd myproject
+python3 -m venv myenv
+source myenv/bin/activate
