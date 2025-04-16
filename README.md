@@ -105,7 +105,7 @@ pip install -r requirements.txt
 
 ## 🧠 AI Flow Overview
 
-```mermaid
+```
 graph TD
     A[User Input (question + phone number)] --> B[Vector Search with ChromaDB]
     B --> C[Retrieve Top-K Matching Chunks]
@@ -217,6 +217,8 @@ POST http://127.0.0.1:5000/chat/start
 - Expose admin logs via API
 - Caching recent vector results
 
+## 
+![Image](https://raw.githubusercontent.com/prashant1879/Basic-RAG-App/refs/heads/main/RAG_APPLICATION.png)
 
 ## Want to Learn More? 🤓
 
