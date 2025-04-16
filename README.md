@@ -136,7 +136,6 @@ Starts FastAPI server and handles incoming chat POST requests.
 
 ## 🚀 How It Works
 
-## 
 ![Image](https://raw.githubusercontent.com/prashant1879/Basic-RAG-App/refs/heads/main/RAG_APPLICATION.png)
 
 ### 🧬 Initialization
