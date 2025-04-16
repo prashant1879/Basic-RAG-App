@@ -136,6 +136,9 @@ Starts FastAPI server and handles incoming chat POST requests.
 
 ## 🚀 How It Works
 
+## 
+![Image](https://raw.githubusercontent.com/prashant1879/Basic-RAG-App/refs/heads/main/RAG_APPLICATION.png)
+
 ### 🧬 Initialization
 - `lifespan()` runs on app startup and:
   - Initializes the AI graph with memory
@@ -216,9 +219,6 @@ POST http://127.0.0.1:5000/chat/start
 - Add chat UI frontend (React/Vue)
 - Expose admin logs via API
 - Caching recent vector results
-
-## 
-![Image](https://raw.githubusercontent.com/prashant1879/Basic-RAG-App/refs/heads/main/RAG_APPLICATION.png)
 
 ## Want to Learn More? 🤓
 
