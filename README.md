@@ -210,11 +210,11 @@ POST http://127.0.0.1:5000/chat/start
 - Vector DB is only populated if empty – smart init!
 - Chat sessions are tracked using `phone_number` 🧾
 
-
 ## 📈 Possible Improvements
 
 - Add session cleanup or expiry logic
-- Dockerize for portability
+- Dockerize for portability (New repo created with Docker and Postgres support)  
+  - **Repo Link**: [GitHub - RAG App with Docker and Postgres]([https://github.com/yourusername/rag-app-docker-postgres](https://github.com/prashant1879/basic_rag_application_with_docker_postgres))
 - Add chat UI frontend (React/Vue)
 - Expose admin logs via API
 - Caching recent vector results
